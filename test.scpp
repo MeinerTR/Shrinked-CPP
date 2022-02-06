@@ -1,0 +1,8 @@
+inc iostream
+
+fun funny (ch[] nothing)
+	ret "Yey"
+
+fun main (int argc, ch[*] argv)
+	prnt "Hello World!"
+	ret 0
