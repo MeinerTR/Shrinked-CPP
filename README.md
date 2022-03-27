@@ -1,2 +1,2 @@
 # Shrinked-CPP
-trying to make c++ easier
+trying to make c/c++ easier
